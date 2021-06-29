@@ -1,0 +1,30 @@
+{
+  "development": {
+    "connectionLimit": 10,
+    "username": "dotrx_user",
+    "password": "dotrx@9876",
+    "database": "dotrx_prod",
+    "hostname": "148.72.217.91",
+    "dialect": "mysql",
+    "prescription": "http://dotrx.in/public/images/prescription/",
+    "profile_photo": "http://dotrx.in/public/uploads/profile-photos/",
+    "brand_image": "http://dotrx.in/public/images/brands/",
+    "medicine_image": "http://dotrx.in/public/images/medicines/",
+    "doctor_departments": "http://dotrx.in/public/images/doctor_departments/",
+    "category_image":"http://dotrx.in/public/"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "hostname": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "hostname": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

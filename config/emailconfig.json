@@ -1,0 +1,26 @@
+{
+    "development": {
+        "host": "sg3plvcpnl423572.prod.sin3.secureserver.net",
+        "port": 465,
+        "secure": "true",
+        "username": "x4dgfbs6yp77",
+        "password": "n9#jYO,!H",
+        "from": "support@dotrx.in"
+    },
+    "test": {
+        "host": "sg3plvcpnl423572.prod.sin3.secureserver.net",
+        "port": 465,
+        "secure": "true",
+        "username": "x4dgfbs6yp77",
+        "password": "n9#jYO,!H",
+        "from": "support@dotrx.in"
+    },
+    "production": {
+        "host": "condor3097.startdedicated.com",
+        "port": 465,
+        "secure": "true",
+        "username": "realtyevo",
+        "password": "mf[G-E^SXW_,",
+        "from": "admin@realtyevo.com"
+    }
+}
